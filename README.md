@@ -20,7 +20,7 @@ Estudiante motivado con un gran interés en desarrollar una carrera profesional.
   Formación Profesional Básica en Informática y Comunicación
 
 ---
-
+![imagen](https://raw.githubusercontent.com/AdriGM15/TFC/refs/heads/main/imgportada/xammp.png)
 ## 💼 Experiencia Profesional
 
 ### 🏭 Ebara Pumps Iberia (Octubre 2021 – Mayo 2022)

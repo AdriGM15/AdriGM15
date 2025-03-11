@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👨‍💻 Adrián Gámez Marcos
 
-<!--
-**AdriGM15/AdriGM15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Técnico en Administración de Sistemas en Red
 
-Here are some ideas to get you started:
+Estudiante motivado con un gran interés en desarrollar una carrera profesional. Dispuesto a aprender y adquirir experiencia para contribuir eficazmente en un entorno laboral.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📍 Ubicación
+📍 Madrid, España
+
+---
+
+## 🎓 Formación Académica
+- **UAX FP**  
+  Técnico Superior en Administración de Sistemas Informáticos en Red
+- **IES Virgen de la Paloma (2020-2022)**  
+  Técnico en Redes y Estaciones de Tratamiento de Aguas
+- **Salesianos Carabanchel (2017-2019)**  
+  Formación Profesional Básica en Informática y Comunicación
+
+---
+
+## 💼 Experiencia Profesional
+
+### 🏭 Ebara Pumps Iberia (Octubre 2021 – Mayo 2022)
+**Montaje de Grupos de Presión (En Prácticas)**
+- Montaje de grupos de bombas de presión y grupos domésticos.
+
+### 🖥️ Salesianos Estrecho (Septiembre 2019 – Octubre 2019)
+**Mantenimiento de Equipos Informáticos (En Prácticas)**
+- Reparación y mantenimiento de equipos informáticos.
+
+### 🖥️ Salesianos Estrecho (Septiembre 2018 – Octubre 2018)
+**Mantenimiento de Equipos Informáticos (En Prácticas)**
+- Reparación y mantenimiento de equipos informáticos.
+
+---
+
+## 📩 Contacto
+✉️ Disponible para oportunidades laborales en turnos de mañana y tarde.
+
+---
+
+¡Gracias por visitar mi perfil! 😊
+

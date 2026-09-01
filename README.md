@@ -32,6 +32,14 @@ Mi visión a largo plazo y mi mayor pasión tecnológica es la **Ciberseguridad*
 
 ---
 
+## 🏆 Logros y Proyectos Destacados
+
+*   🥈 **2º Puesto - Hackathon de Formación Profesional:** Participación en un proyecto multidisciplinar junto a estudiantes de Desarrollo de Aplicaciones Multiplataforma (DAM), Administración y Finanzas, y Marketing. 
+    *   **Mi rol:** Diseño y creación de la base de datos relacional para una plataforma web tipo *marketplace* (estilo Wallapop), orientada a facilitar el intercambio de recursos para familias de acogida. 
+    *   **El valor aportado:** Aplicación técnica de conocimientos en bases de datos y experiencia real coordinando requisitos técnicos con objetivos de negocio y diseño en un entorno ágil y de alto impacto social.
+
+---
+
 ## 📬 Conecta conmigo
 
 ¡Siempre estoy abierto a nuevas oportunidades, colaboraciones o simplemente a charlar sobre sistemas, IA o ciberseguridad! 
@@ -41,5 +49,4 @@ Mi visión a largo plazo y mi mayor pasión tecnológica es la **Ciberseguridad*
 
 <!--
 **adriangamezmarcos/adriangamezmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 -->

@@ -1,46 +1,34 @@
-# 👨‍💻 Adrián Gámez Marcos
+# ¡Hola! Soy Adrián Gámez Marcos 👋
 
-## Técnico en Administración de Sistemas en Red
+**Técnico Superior en Administración de Sistemas Informáticos | Especializándome en IA | Futuro experto en Ciberseguridad**
 
-Estudiante motivado con un gran interés en desarrollar una carrera profesional. Dispuesto a aprender y adquirir experiencia para contribuir eficazmente en un entorno laboral.
+Soy un profesional de la administración de sistemas en constante evolución, actualmente en búsqueda activa de oportunidades como Administrador Informático en entornos corporativos u hospitalarios. Para mantener mi perfil actualizado frente a los retos tecnológicos actuales, estoy cursando una formación especializada en **Diseño y Desarrollo de Soluciones de Inteligencia Artificial**. 
 
----
-
-## 📍 Ubicación
-📍 Madrid, España
+Mi visión a largo plazo y mi mayor pasión tecnológica es la **Ciberseguridad**, con el objetivo de llegar a proteger las infraestructuras, redes y datos que administro. Combino una base sólida en sistemas con la motivación continua por aprender las tecnologías del futuro.
 
 ---
 
-## 🎓 Formación Académica
-- **UAX FP**  
-  Técnico Superior en Administración de Sistemas Informáticos en Red
-- **IES Virgen de la Paloma (2020-2022)**  
-  Técnico en Redes y Estaciones de Tratamiento de Aguas
-- **Salesianos Carabanchel (2017-2019)**  
-  Formación Profesional Básica en Informática y Comunicación
+## 🛠️ Tecnologías y Herramientas
 
----
-![imagen](https://raw.githubusercontent.com/AdriGM15/TFC/refs/heads/main/imgportada/xammp.png)
-## 💼 Experiencia Profesional
+A lo largo de mi formación y experiencia, he desarrollado competencias en las siguientes áreas:
 
-### 🏭 Ebara Pumps Iberia (Octubre 2021 – Mayo 2022)
-**Montaje de Grupos de Presión (En Prácticas)**
-- Montaje de grupos de bombas de presión y grupos domésticos.
-
-### 🖥️ Salesianos Estrecho (Septiembre 2019 – Octubre 2019)
-**Mantenimiento de Equipos Informáticos (En Prácticas)**
-- Reparación y mantenimiento de equipos informáticos.
-
-### 🖥️ Salesianos Estrecho (Septiembre 2018 – Octubre 2018)
-**Mantenimiento de Equipos Informáticos (En Prácticas)**
-- Reparación y mantenimiento de equipos informáticos.
+*   **Sistemas Operativos:** Linux, Windows.
+*   **Lenguajes y Bases de Datos:** Python, SQL, MySQL, HTML, CSS.
+*   **Librerías y Frameworks:** Streamlit, Requests *(enfocándome en el desarrollo de soluciones IA e interfaces de datos)*.
+*   **Herramientas de Administración y Gestión:** 
+    *   Gestión de incidencias y ticketing con **Jira**.
+    *   Virtualización y despliegue con **VirtualBox**.
+    *   Gestión de contenidos web con **WordPress**.
 
 ---
 
-## 📩 Contacto
-✉️ Disponible para oportunidades laborales en turnos de mañana y tarde.
+## 📬 Conecta conmigo
 
----
+¡Siempre estoy abierto a nuevas oportunidades, colaboraciones o simplemente a charlar sobre sistemas, IA o ciberseguridad! Puedes encontrarme aquí:
 
-¡Gracias por visitar mi perfil! 😊
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1n-g%C3%A1mez-marcos/)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriangamezmarcos15@gmail.com)
 
+<!--
+**adriangamezmarcos/adriangamezmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->

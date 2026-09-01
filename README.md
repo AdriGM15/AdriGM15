@@ -10,25 +10,36 @@ Mi visión a largo plazo y mi mayor pasión tecnológica es la **Ciberseguridad*
 
 ## 🛠️ Tecnologías y Herramientas
 
-A lo largo de mi formación y experiencia, he desarrollado competencias en las siguientes áreas:
+**Sistemas Operativos**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-*   **Sistemas Operativos:** Linux, Windows.
-*   **Lenguajes y Bases de Datos:** Python, SQL, MySQL, HTML, CSS.
-*   **Librerías y Frameworks:** Streamlit, Requests *(enfocándome en el desarrollo de soluciones IA e interfaces de datos)*.
-*   **Herramientas de Administración y Gestión:** 
-    *   Gestión de incidencias y ticketing con **Jira**.
-    *   Virtualización y despliegue con **VirtualBox**.
-    *   Gestión de contenidos web con **WordPress**.
+**Lenguajes y Bases de Datos**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Librerías y Frameworks (IA y Datos)**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Administración, Virtualización y Gestión**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117EB9?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
 ## 📬 Conecta conmigo
 
-¡Siempre estoy abierto a nuevas oportunidades, colaboraciones o simplemente a charlar sobre sistemas, IA o ciberseguridad! Puedes encontrarme aquí:
+¡Siempre estoy abierto a nuevas oportunidades, colaboraciones o simplemente a charlar sobre sistemas, IA o ciberseguridad! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1n-g%C3%A1mez-marcos/)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriangamezmarcos15@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo_Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriangamezmarcos15@gmail.com)
 
 <!--
 **adriangamezmarcos/adriangamezmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 -->
